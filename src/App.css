@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #4CAF50;
+  padding: 50px;
+  color: white;
+}
+
+.image-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Adjust this value to move the image up/down */
+}
+
+.image-wrapper img {
+  max-width: 75%;
+  height: auto;
+  border-radius: 20px;
+}
